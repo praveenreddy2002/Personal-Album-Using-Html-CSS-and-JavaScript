@@ -1,0 +1,56 @@
+.carousel-img {
+    height: 700px;
+    width: auto;
+    object-fit: cover;
+}
+.top-section {
+    width: 100%;
+    padding: 20px 20%;
+}
+.title {
+    text-align: center;
+    color: rgb(0, 255, 21);
+    font-size: 42px;
+}
+.sub-title {
+    text-align: center;
+    font-size: 22px;
+}
+.line {
+    color: rgba(64, 64, 64, 0.3);
+}
+.heading {
+    font-size: 36px;
+    text-align: center;
+    color: rgb(165, 116, 42);
+}
+.list-wrapper {
+    width: 100%;
+    padding: 20px 40%;
+}
+.list-item {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: green;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.item {
+    width: 300px;
+}
+.img {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+
+}
+body
+{
+    background-color: rgba(0, 146, 154, 0.271);
+    font-style: italic;
+}
